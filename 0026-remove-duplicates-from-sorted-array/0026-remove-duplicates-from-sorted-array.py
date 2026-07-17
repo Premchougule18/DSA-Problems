@@ -4,13 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n=len(nums)
-        start=0
-        for i in range(1,n):
-           if nums[i]!=nums[start]:
-            start+=1
-            nums[start]=nums[i]
+        n = len(nums)
 
+        if n == 0:
+            return 0
 
-        return start+1
-        
+        start = 0
+
+        for i in range(1, n):
+            if nums[i] != nums[start]:
+                start += 1
+                nums[start] = nums[i]
+
+        return start + 1
