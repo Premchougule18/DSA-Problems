@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Premchougule18/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Premchougule18/DSA-Problems/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Premchougule18/DSA-Problems/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0414-third-maximum-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
