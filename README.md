@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Premchougule18/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Premchougule18/DSA-Problems/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Premchougule18/DSA-Problems/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
